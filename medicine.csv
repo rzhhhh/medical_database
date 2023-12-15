@@ -1,0 +1,6 @@
+medicine_name,medicine_price,medicine_id,remaining_quantity
+medicine_A,5,11,23
+medicine_B,15,12,50
+medicine_C,35,13,12
+medicine_D,110,14,27
+medicine_E,20,15,75
